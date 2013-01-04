@@ -1,0 +1,1 @@
+/home/anderson/Desktop/AeroFS/nodejs_examples/javatest/stuff.js
