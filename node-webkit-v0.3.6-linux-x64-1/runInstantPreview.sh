@@ -1,1 +1,1 @@
-./nw instantPreview
+./nw "instantPreview"
